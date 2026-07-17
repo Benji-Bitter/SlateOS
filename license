@@ -1,0 +1,67 @@
+GNU GENERAL PUBLIC LICENSE
+
+Version 3, 29 June 2007
+
+Copyright (C) 2026 SlateOS Contributors
+
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+```
+                     Preamble
+```
+
+SlateOS is built on the belief that users should have ownership, control, and freedom over their computing devices.
+
+This software is provided as free and open-source software. Users have the freedom to study how SlateOS works, modify it, improve it, and share their improvements with others.
+
+The SlateOS project believes that operating systems should respect user privacy, transparency, and personal control.
+
+The purpose of this license is to ensure that SlateOS and future improvements remain available to the community.
+
+```
+                     Terms
+```
+
+SlateOS is licensed under the GNU General Public License Version 3 (GPLv3).
+
+You are free to:
+
+* Use SlateOS for any purpose.
+* Study how SlateOS works.
+* Modify SlateOS to suit your needs.
+* Share copies of SlateOS.
+* Share modified versions of SlateOS.
+
+If you distribute modified versions of SlateOS, you must:
+
+* Make the source code available.
+* License your modifications under the same GPLv3 license.
+* Preserve copyright notices.
+* Clearly state what changes were made.
+
+You may not:
+
+* Distribute a modified version of SlateOS as closed-source software.
+* Remove the freedoms granted by this license.
+* Prevent users from accessing the source code of distributed versions.
+
+  ```
+                     Privacy Statement
+  ```
+
+SlateOS is designed as a privacy-focused operating system.
+
+The SlateOS project does not require telemetry, tracking, advertising systems, or mandatory online accounts.
+
+Users remain in control of their own devices and data.
+
+```
+                     Disclaimer
+```
+
+SlateOS is provided "AS IS", without warranty of any kind, either expressed or implied.
+
+The developers and contributors of SlateOS are not responsible for damages, data loss, or issues caused by use of this software.
+
+For the complete legal terms and conditions, see the official GNU General Public License Version 3 text:
+https://www.gnu.org/licenses/gpl-3.0.html
